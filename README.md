@@ -1,7 +1,10 @@
 # u2net-image-background-remove
 pytorch u2net-image-background-remove
+
 python mainflask.py 
-go to : http://0.0.0.0:5000/uploadfile
+open web browser and go to:
+
+http://0.0.0.0:5000/uploadfile
 
 upload image for backgorund  remove 
 
