@@ -1,5 +1,19 @@
 # u2net-image-background-remove
+
 pytorch u2net-image-background-remove
+
+`pip install requirements.txt`
+
+this requirements dependency pytorch and other librarries
+
+Before only 
+
+`python main.py `
+
+prepare profil.png file  ..
+
+or another choice run on web browser...
+
 
 python mainflask.py 
 open web browser and go to:
