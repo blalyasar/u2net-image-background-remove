@@ -26,7 +26,10 @@ open web browser and go to:
 
 http://0.0.0.0:5000/uploadfile
 
-image  ![image](https://user-images.githubusercontent.com/49458946/115484256-27e56200-a25b-11eb-9798-59581e80381b.png)
+
+image  
+
+![image](https://user-images.githubusercontent.com/49458946/115484256-27e56200-a25b-11eb-9798-59581e80381b.png)
 
 
 upload image for backgorund  remove 
