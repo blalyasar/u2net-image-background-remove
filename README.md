@@ -2,6 +2,12 @@
 
 pytorch u2net-image-background-remove
 
+git clone https://github.com/blalyasar/u2net-image-background-remove.git
+
+cd u2net-image-background-remove
+
+mkdir uploads process
+
 `pip install requirements.txt`
 
 this requirements dependency pytorch and other librarries
